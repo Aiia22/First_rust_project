@@ -1,4 +1,4 @@
-# My Project Rust
+# First Project Rust
 
 This is a simple Rust project that generates a random number between 1 and 100 and prompts the user to guess the number.
 
